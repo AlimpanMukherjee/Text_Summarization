@@ -35,3 +35,4 @@ unstructured
 pytube
 numexpr
 gradio
+whisper
