@@ -35,4 +35,5 @@ unstructured
 pytube
 numexpr
 gradio
-whisper
+openai-whisper
+ffmpeg-python
